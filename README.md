@@ -1,2 +1,3 @@
 # Fragment-JS-
-Is an imported from shadertoy.com
+Is an imported shader from shadertoy.com
+https://www.shadertoy.com/view/tsXBzS
